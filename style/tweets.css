@@ -1,0 +1,81 @@
+*:focus {
+    outline: none;
+}
+.tweets-page {
+  background-color:white;
+   
+}
+    
+#page-left {
+ background-color:white;
+ width :30%;
+ float :left;
+ padding-top :30px;
+ padding-left :20px;
+    }
+
+header {
+ background-color: #F8B4C0;
+ height : 60px;
+    }
+
+h3 {
+ text-align: center;
+    }
+    
+#page-right {
+ float :right;   
+ width:60%;
+ border : 2px solid white;
+ padding :20px;
+    }    
+
+#comment-right {
+    padding: 16px;
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+    border: 2px solid #F8B4C0;
+    border-radius: 30px;
+    background-color :white;
+    padding-left: 10px;
+    vertical-align: text-top;
+    resize: none;
+}
+
+
+.tweetbttn {
+    display : flex;
+    justify-content: flex-end;
+}
+
+#push-right {
+    width: 25%;
+    height: 30px;
+    text-align: center;
+    border-radius:80px;
+    font-size: 14px;
+    background-color: #F8B4C0;
+    color: white;
+}
+
+#cmmt1 {
+ width :100%;
+ background-color : white; 
+    }
+#cmmt2 {
+ width :100%;
+ background-color : white;   
+    }
+#cmmt3 {
+ width :100%;
+ background-color : white;    
+    }
+#cmmt4 {
+ width :100%;
+ background-color : white;    
+    }
+#cmmt5 {
+ width :100%;
+ background-color :white;    
+    }
